@@ -1,0 +1,109 @@
+2024-09-08 08:02:07: Input image exists: my_image.jpg
+2024-09-08 08:02:07: Created temporary directory: temp_images
+2024-09-08 08:02:07: Reducing image resolution by 50%.
+2024-09-08 08:02:07: Generating 18 rotated images.
+2024-09-08 08:02:07: Generated image_0.jpg with 0 degrees rotation.
+2024-09-08 08:02:07: Generated image_1.jpg with 10 degrees rotation.
+2024-09-08 08:02:07: Generated image_2.jpg with 20 degrees rotation.
+2024-09-08 08:02:07: Generated image_3.jpg with 30 degrees rotation.
+2024-09-08 08:02:07: Generated image_4.jpg with 40 degrees rotation.
+2024-09-08 08:02:07: Generated image_5.jpg with 50 degrees rotation.
+2024-09-08 08:02:07: Generated image_6.jpg with 60 degrees rotation.
+2024-09-08 08:02:07: Generated image_7.jpg with 70 degrees rotation.
+2024-09-08 08:02:07: Generated image_8.jpg with 80 degrees rotation.
+2024-09-08 08:02:07: Generated image_9.jpg with 90 degrees rotation.
+2024-09-08 08:02:08: Generated image_10.jpg with 100 degrees rotation.
+2024-09-08 08:02:08: Generated image_11.jpg with 110 degrees rotation.
+2024-09-08 08:02:08: Generated image_12.jpg with 120 degrees rotation.
+2024-09-08 08:02:08: Generated image_13.jpg with 130 degrees rotation.
+2024-09-08 08:02:08: Generated image_14.jpg with 140 degrees rotation.
+2024-09-08 08:02:08: Generated image_15.jpg with 150 degrees rotation.
+2024-09-08 08:02:08: Generated image_16.jpg with 160 degrees rotation.
+2024-09-08 08:02:08: Generated image_17.jpg with 170 degrees rotation.
+2024-09-08 08:02:08: Creating GIF animation: animation.gif
+2024-09-08 08:02:13: Cleaning up temporary images.
+2024-09-08 08:02:13: GIF animation created successfully: animation.gif
+2024-09-08 08:02:46: No output file provided. Using generated name: my_image_animation_20240908_080246.gif
+2024-09-08 08:02:46: Input image exists: my_image.jpg
+2024-09-08 08:02:46: Created temporary directory: temp_images
+2024-09-08 08:02:46: Reducing image resolution by 50%.
+2024-09-08 08:02:46: Generating 18 rotated images.
+2024-09-08 08:02:46: Generated image_0.jpg with 0 degrees rotation.
+2024-09-08 08:02:46: Generated image_1.jpg with 10 degrees rotation.
+2024-09-08 08:02:46: Generated image_2.jpg with 20 degrees rotation.
+2024-09-08 08:02:46: Generated image_3.jpg with 30 degrees rotation.
+2024-09-08 08:02:46: Generated image_4.jpg with 40 degrees rotation.
+2024-09-08 08:02:46: Generated image_5.jpg with 50 degrees rotation.
+2024-09-08 08:02:46: Generated image_6.jpg with 60 degrees rotation.
+2024-09-08 08:02:47: Generated image_7.jpg with 70 degrees rotation.
+2024-09-08 08:02:47: Generated image_8.jpg with 80 degrees rotation.
+2024-09-08 08:02:47: Generated image_9.jpg with 90 degrees rotation.
+2024-09-08 08:02:47: Generated image_10.jpg with 100 degrees rotation.
+2024-09-08 08:02:47: Generated image_11.jpg with 110 degrees rotation.
+2024-09-08 08:02:47: Generated image_12.jpg with 120 degrees rotation.
+2024-09-08 08:02:47: Generated image_13.jpg with 130 degrees rotation.
+2024-09-08 08:02:47: Generated image_14.jpg with 140 degrees rotation.
+2024-09-08 08:02:47: Generated image_15.jpg with 150 degrees rotation.
+2024-09-08 08:02:47: Generated image_16.jpg with 160 degrees rotation.
+2024-09-08 08:02:47: Generated image_17.jpg with 170 degrees rotation.
+2024-09-08 08:02:47: Creating GIF animation: my_image_animation_20240908_080246.gif
+2024-09-08 08:02:51: Cleaning up temporary images.
+2024-09-08 08:02:51: GIF animation created successfully: my_image_animation_20240908_080246.gif
+2024-09-08 08:03:28: No output file provided. Using generated name: my_image_animation_20240908_080328.gif
+2024-09-08 08:03:28: Input image exists: my_image.jpg
+2024-09-08 08:03:28: Created temporary directory: temp_images
+2024-09-08 08:03:28: Reducing image resolution by 30%.
+2024-09-08 08:03:28: Generating 50 rotated images.
+2024-09-08 08:03:28: Generated image_0.jpg with 0 degrees rotation.
+2024-09-08 08:03:28: Generated image_1.jpg with 5 degrees rotation.
+2024-09-08 08:03:28: Generated image_2.jpg with 10 degrees rotation.
+2024-09-08 08:03:28: Generated image_3.jpg with 15 degrees rotation.
+2024-09-08 08:03:28: Generated image_4.jpg with 20 degrees rotation.
+2024-09-08 08:03:28: Generated image_5.jpg with 25 degrees rotation.
+2024-09-08 08:03:28: Generated image_6.jpg with 30 degrees rotation.
+2024-09-08 08:03:28: Generated image_7.jpg with 35 degrees rotation.
+2024-09-08 08:03:28: Generated image_8.jpg with 40 degrees rotation.
+2024-09-08 08:03:28: Generated image_9.jpg with 45 degrees rotation.
+2024-09-08 08:03:28: Generated image_10.jpg with 50 degrees rotation.
+2024-09-08 08:03:28: Generated image_11.jpg with 55 degrees rotation.
+2024-09-08 08:03:28: Generated image_12.jpg with 60 degrees rotation.
+2024-09-08 08:03:28: Generated image_13.jpg with 65 degrees rotation.
+2024-09-08 08:03:28: Generated image_14.jpg with 70 degrees rotation.
+2024-09-08 08:03:28: Generated image_15.jpg with 75 degrees rotation.
+2024-09-08 08:03:28: Generated image_16.jpg with 80 degrees rotation.
+2024-09-08 08:03:28: Generated image_17.jpg with 85 degrees rotation.
+2024-09-08 08:03:28: Generated image_18.jpg with 90 degrees rotation.
+2024-09-08 08:03:28: Generated image_19.jpg with 95 degrees rotation.
+2024-09-08 08:03:28: Generated image_20.jpg with 100 degrees rotation.
+2024-09-08 08:03:28: Generated image_21.jpg with 105 degrees rotation.
+2024-09-08 08:03:28: Generated image_22.jpg with 110 degrees rotation.
+2024-09-08 08:03:28: Generated image_23.jpg with 115 degrees rotation.
+2024-09-08 08:03:29: Generated image_24.jpg with 120 degrees rotation.
+2024-09-08 08:03:29: Generated image_25.jpg with 125 degrees rotation.
+2024-09-08 08:03:29: Generated image_26.jpg with 130 degrees rotation.
+2024-09-08 08:03:29: Generated image_27.jpg with 135 degrees rotation.
+2024-09-08 08:03:29: Generated image_28.jpg with 140 degrees rotation.
+2024-09-08 08:03:29: Generated image_29.jpg with 145 degrees rotation.
+2024-09-08 08:03:29: Generated image_30.jpg with 150 degrees rotation.
+2024-09-08 08:03:29: Generated image_31.jpg with 155 degrees rotation.
+2024-09-08 08:03:29: Generated image_32.jpg with 160 degrees rotation.
+2024-09-08 08:03:29: Generated image_33.jpg with 165 degrees rotation.
+2024-09-08 08:03:29: Generated image_34.jpg with 170 degrees rotation.
+2024-09-08 08:03:29: Generated image_35.jpg with 175 degrees rotation.
+2024-09-08 08:03:29: Generated image_36.jpg with 180 degrees rotation.
+2024-09-08 08:03:29: Generated image_37.jpg with 185 degrees rotation.
+2024-09-08 08:03:29: Generated image_38.jpg with 190 degrees rotation.
+2024-09-08 08:03:29: Generated image_39.jpg with 195 degrees rotation.
+2024-09-08 08:03:29: Generated image_40.jpg with 200 degrees rotation.
+2024-09-08 08:03:29: Generated image_41.jpg with 205 degrees rotation.
+2024-09-08 08:03:29: Generated image_42.jpg with 210 degrees rotation.
+2024-09-08 08:03:29: Generated image_43.jpg with 215 degrees rotation.
+2024-09-08 08:03:29: Generated image_44.jpg with 220 degrees rotation.
+2024-09-08 08:03:29: Generated image_45.jpg with 225 degrees rotation.
+2024-09-08 08:03:29: Generated image_46.jpg with 230 degrees rotation.
+2024-09-08 08:03:29: Generated image_47.jpg with 235 degrees rotation.
+2024-09-08 08:03:29: Generated image_48.jpg with 240 degrees rotation.
+2024-09-08 08:03:29: Generated image_49.jpg with 245 degrees rotation.
+2024-09-08 08:03:29: Creating GIF animation: my_image_animation_20240908_080328.gif
+2024-09-08 08:03:34: Cleaning up temporary images.
+2024-09-08 08:03:34: GIF animation created successfully: my_image_animation_20240908_080328.gif

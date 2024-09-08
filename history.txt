@@ -1,0 +1,15 @@
+    1  history
+    2  mkdir LinuxExam
+    3  cd LinuxExam/
+    4  curl -o my_image.jpg https://images.squarespace-cdn.com/content/v1/5a7c0544d74cffa3a6ce66b3/1630184464268-J71XU6EUP9Z4VZFR5BCK/Grossglockner+valley%2C+Austria.jpg
+    5  sudo apt update
+    6  sudo apt install imagemagick
+    7  sudo nano gif_generator.sh
+    8  ls
+    9  [200~chmod +x gif_generator.sh
+   10  chmod +x gif_generator.sh
+   11  sudo chmod +x gif_generator.sh
+   12  ./gif_generator.sh my_image.jpg 50 10 18 animation.gif
+   13  ./gif_generator.sh my_image.jpg 50 10 18
+   14  ./gif_generator.sh my_image.jpg 30 5 50
+   15  history >> history.txt
