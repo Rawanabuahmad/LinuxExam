@@ -1,6 +1,6 @@
 
-2024-09-08 08:57:11: Current branch: BR_1
-2024-09-08 08:57:11: Matching row found: 234,Alert should be in red color,BR_1,g.choen,3,https://github.com/Rawanabuahmad/LinuxExam/tree/BR_1
-2024-09-08 08:57:11: Developer description provided: Initial test file added for Bug ID 567
-2024-09-08 08:57:11: Generated commit message: 234:20240908_085711:BR_1:g.choen:3:Alert should be in red color:Initial test file added for Bug ID 567
-2024-09-08 08:57:11: Committing changes with message: 234:20240908_085711:BR_1:g.choen:3:Alert should be in red color:Initial test file added for Bug ID 567
+2024-09-08 08:58:55: Current branch: BR_2
+2024-09-08 08:58:55: Matching row found: 567,Button misaligned on homepage,BR_2,n.jones,2,https://github.com/Rawanabuahmad/LinuxExam/tree/BR_2
+2024-09-08 08:58:55: No developer description provided.
+2024-09-08 08:58:55: Generated commit message: 567:20240908_085855:BR_2:n.jones:2:Button misaligned on homepage
+2024-09-08 08:58:55: Committing changes with message: 567:20240908_085855:BR_2:n.jones:2:Button misaligned on homepage

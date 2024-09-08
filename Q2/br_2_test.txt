@@ -1,0 +1,1 @@
+This is a test file for BR_2 (Bug ID 567)
