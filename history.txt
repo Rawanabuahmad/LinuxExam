@@ -13,3 +13,14 @@
    13  ./gif_generator.sh my_image.jpg 50 10 18
    14  ./gif_generator.sh my_image.jpg 30 5 50
    15  history >> history.txt
+   16  git init
+   17  git add .
+   18  git commit -m "Initial commit for LinuxExam project"
+   19  gh auth login
+   20  sudo apt install gh
+   21  gh auth login
+   22  gh repo create LinuxExam --public --confirm
+   23  git remote add origin https://github.com/Rawanabuahmad/LinuxExam.git
+   24  git push -u origin master
+   25  > history.txt 
+   26  history > history.txt
